@@ -5,19 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: author
-  type: select
-  default: ''
-  config:
-    required: true
-    options: []
-    source:
-      type: documents
-      section: author-list
-      file: content/data/authors.yaml
-      path: authors
-  label: author
-  description: Enter author of post
 - name: date
   type: datetime
   label: date
