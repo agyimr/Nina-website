@@ -18,18 +18,6 @@ export default function Info() {
               <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
             </p>
           </li>
-          <li>
-            <p>
-              <a href={`https://twitter.com/${infoData.contact.twitter_handle}`}>
-                Twitter: @{infoData.contact.twitter_handle}
-              </a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
-            </p>
-          </li>
         </ul>
       </section>
     </Layout>

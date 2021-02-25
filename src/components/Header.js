@@ -14,7 +14,7 @@ export default function Header(props) {
         aria-label="main navigation"
       >
         <Link to="/">
-          <h1>{props.title}</h1>
+          <img className={headerStyles.header__image} src="/static/logo.jpg" />
         </Link>
         <div>
           <h1>
