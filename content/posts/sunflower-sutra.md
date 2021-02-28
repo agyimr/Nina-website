@@ -13,13 +13,15 @@ What from a distance may seem like a block of color up close is a connection of 
 
 The design objective was to create a unique but faithful representation of their paintings, at the same time challenging the viewer. The most difficult task was to ensure the pattern would look good both in miniature and scaled up, which proved troublesome especially in Kusama’s case.
 
-![Yayoi Kusama Type](/content/images/kusama-1.png "Yayoi Kusama Type")  
+![Yayoi Kusama Colors](/content/images/kusama_cmyk.png "Yayoi Kusama Colors")![Yayoi Kusama Type](/content/images/kusama-1.png "Yayoi Kusama Type")  
 ![Yayoi Kusama Pattern](/content/images/kusama_poster_transp.png "Yayoi Kusama Pattern")
 
-![01. Yayoi Kusama Poster](/content/images/kusama.png "01. Yayoi Kusama Poster")
+![Yayoi Kusama Poster](/content/images/kusama.png "Yayoi Kusama Poster")
+
+![Agnes Martin Colors](/content/images/martin_cmyk.png "Agnes Martin Colors")
 
 ![Agnes Martin Type](/content/images/martin-1.png "Agnes Martin Type")
 
-![](/content/images/martin-sq.png)
+![Agnes Martin Type](/content/images/martin-sq.png "Agnes Martin Type")
 
-![02. Agnes Martin Poster](/content/images/martin.png "02. Agnes Martin Poster")
+![Agnes Martin Poster](/content/images/martin.png "Agnes Martin Poster")
