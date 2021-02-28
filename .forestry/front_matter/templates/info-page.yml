@@ -11,8 +11,8 @@ fields:
     schema:
       format: html-blocks
   label: description
-  description: Currently residing in Budapest, Hungary.<br>I love art, books, and
-    art books.
+  description: Aspiring Graphic Designer.<br>Currently residing in Budapest, Hungary.
+    I love art, books, and art books.
 - name: cta
   type: textarea
   default: ''
