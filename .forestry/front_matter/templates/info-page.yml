@@ -11,7 +11,8 @@ fields:
     schema:
       format: html-blocks
   label: description
-  description: Enter description here
+  description: Currently residing in Budapest, Hungary.<br>I love art, books, and
+    art books.
 - name: cta
   type: textarea
   default: ''
@@ -28,7 +29,7 @@ fields:
   fields:
   - type: text
     name: email
-    label: email
+    label: ni.tomczyk@gmail.com
   - type: text
     name: twitter_handle
     label: twitter_handle
