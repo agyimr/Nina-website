@@ -1,5 +1,5 @@
 ---
-date: 2021-01-09T23:40:32.000+00:00
+date: 2021-01-08T23:40:32Z
 title: Trash Talk
 author: Ralph Waldo Emerson
 hero_image: "/content/images/papers.png"
