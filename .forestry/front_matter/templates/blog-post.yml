@@ -23,4 +23,5 @@ fields:
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
+- content/posts/a-little-book-of-alchemy.md
 - content/posts/golden-joinery.md
