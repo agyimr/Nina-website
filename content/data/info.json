@@ -1,8 +1,8 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>Aspiring Graphic Designer.</p>",
+  "cta": "<p>Currently residing in Budapest, Hungary. I love art, books, and art books.</p>",
   "contact": {
-    "email": "info@forestry.io",
+    "email": "ni.tomczyk@gmail.com",
     "twitter_handle": "forestryio",
     "github_handle": "forestryio"
   },
