@@ -11,7 +11,11 @@ My intention for this project was to achieve literality. The annual production o
 
 But not all is grim. This project intends to inspire, educate, and encourage everyone to do their best. Acceptance and willingness to change is the first step for a more conscious environment, and every small act of ecological kindness counts.
 
-The biggest challenge I faced was ensuring that every letter was unique and distinguishable on every background color.
+You can find out more about Municipal Solid Waste and future estimates on the WBG's website:  
+[https://datatopics.worldbank.org/what-a-waste/trends_in_solid_waste_management.html](https://datatopics.worldbank.org/what-a-waste/trends_in_solid_waste_management.html "MSW World Bank Group Information")
+
+And look at statistics and facts on Statista:  
+[https://www.statista.com/topics/4983/waste-generation-worldwide/](https://www.statista.com/topics/4983/waste-generation-worldwide/ "MSW Statistics")
 
 ![Trash Talk Alphabet](/content/images/trashtalk_alphabet.png "Trash Talk Alphabet")
 
