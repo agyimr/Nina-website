@@ -1,6 +1,6 @@
 ---
 date: 2020-12-18T09:00:00Z
-title: Come Closer
+title: come closer
 author: ''
 hero_image: "/content/images/grid.png"
 
