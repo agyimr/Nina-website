@@ -24,3 +24,4 @@ fields:
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
 - content/posts/golden-joinery.md
+- content/posts/miscellanea.md
