@@ -1,6 +1,6 @@
 ---
 date: 2021-07-28T13:46:16Z
-hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+hero_image: "/content/images/perfume_poste_beige-1.jpg"
 title: '"Perfume: The Story of a Murderer" Redesigned'
 
 ---
