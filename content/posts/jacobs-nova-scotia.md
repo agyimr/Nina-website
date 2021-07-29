@@ -4,6 +4,11 @@ hero_image: "/content/images/sardines_seven.png"
 title: Jacobs Nova Scotia
 
 ---
-![JNS](/content/images/sardines_render.png "JNS")![JSN](/content/images/sardines_seven.png "JSN")
 
-![](/content/images/tuna_render_plain.png)![](/content/images/tuna_render.png)
+![](/content/images/cans_sides.png)![](/content/images/cans_sides2.png)
+
+![JNS](/content/images/sardines_render.png "JNS")
+
+![](/content/images/tuna_render_plain.png)
+
+![](/content/images/herring_mockup.png)
