@@ -1,6 +1,6 @@
 ---
 date: 2020-11-01T14:30:54Z
-hero_image: "/content/images/miscellanes-1.jpg"
+hero_image: "/content/images/miscellanes_2.png"
 title: miscellanea
 
 ---
