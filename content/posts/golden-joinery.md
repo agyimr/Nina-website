@@ -1,5 +1,5 @@
 ---
-date: 2021-02-07T23:00:00Z
+date: 2021-01-08T23:00:00Z
 hero_image: "/content/images/tear_2.jpg"
 title: golden joinery
 
@@ -10,4 +10,20 @@ This project is a gentle reminder made out of posted notes, that just as things 
 
 The challenge of this project was to combine a sense of negation to the external ”truth” with the recognition of inner strength. The torn posted note exclaims in confidence ”you can’t tear me”.
 
-![Kintsugi 01](/content/images/graphic2.png "Kintsugi 01")![](/content/images/tear_2.jpg)
+Inspiration:
+
+![](/content/images/font-4.png)
+
+Design process:
+
+![](/content/images/1614613840829.jpg)
+
+![](/content/images/trials.png)
+
+Final graphic "Golden Joinery":
+
+![Kintsugi 01](/content/images/graphic2.png "Kintsugi 01")
+
+"Golden Joinery" mockup:
+
+![](/content/images/tear_2.jpg)
