@@ -13,6 +13,10 @@ What from a distance may seem like a block of color, up close, is a connection o
 
 The design objective was to create both unique and faithful representations of their paintings, at the same time challenging the viewer. The most difficult task was to ensure the pattern would look good both in miniature and scaled up, which proved troublesome especially in Kusama’s case.
 
+Yayoi Kusama inspiration:
+
+![](/content/images/2016_cks_11795_0004_000-yayoi_kusama_accreations_i052810.jpg)
+
 Yayoi Kusama colour scheme:![Yayoi Kusama Colors](/content/images/kusama_cmyk.png "Yayoi Kusama Colors")Yayoi Kusama pattern element:![Yayoi Kusama Type](/content/images/kusama-1.png "Yayoi Kusama Type")
 
 Yayoi Kusama pattern:
@@ -26,6 +30,10 @@ Final graphic "01 Yayoi Kusama":
 Poster "01 Yayoi Kusama" mockup:
 
 ![Yayoi Kusama Poster](/content/images/kusama.png "Yayoi Kusama Poster")
+
+Agnes Martin inspiration:
+
+![](/content/images/81c4p9jtifl.jpg)
 
 Agnes Martin colour scheme:![Agnes Martin Colors](/content/images/martin_cmyk.png "Agnes Martin Colors")
 
