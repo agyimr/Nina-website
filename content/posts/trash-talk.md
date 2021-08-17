@@ -1,5 +1,5 @@
 ---
-date: 2021-01-08T23:40:32Z
+date: 2021-02-07T23:40:32Z
 title: trash talk
 author: Ralph Waldo Emerson
 hero_image: "/content/images/papers.png"
@@ -17,8 +17,18 @@ You can find out more about Municipal Solid Waste and future estimates on the WB
 And look at statistics and facts on Statista:  
 [https://www.statista.com/topics/4983/waste-generation-worldwide/](https://www.statista.com/topics/4983/waste-generation-worldwide/ "MSW Statistics")
 
+Background colour:
+
+![](/content/images/font-3.png)
+
+Final Graphic ”Trash Talk Alphabet”:
+
 ![Trash Talk Alphabet](/content/images/trashtalk_alphabet.png "Trash Talk Alphabet")
 
+Final Graphic ”Trash Talk Crossword”:
+
 ![Trash Talk Crossword](/content/images/trashtalk_crossword_1.png "Trash Talk Crossword")
+
+'Trash Talk' mockup:
 
 ![](/content/images/436.png)
