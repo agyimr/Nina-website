@@ -21,6 +21,18 @@ Background colour:
 
 ![](/content/images/font-3.png)
 
+Design Process:
+
+![](/content/images/process-1.png)
+
+First typography:
+
+![](/content/images/trashtalk_typo.png)
+
+Final typography:
+
+![](/content/images/trashtalk_typography-raw.png)
+
 Final Graphic ”Trash Talk Alphabet”:
 
 ![Trash Talk Alphabet](/content/images/trashtalk_alphabet.png "Trash Talk Alphabet")
