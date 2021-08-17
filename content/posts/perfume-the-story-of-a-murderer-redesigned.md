@@ -4,7 +4,6 @@ hero_image: "/content/images/perfume_header.jpg"
 title: 'redesigned "Perfume: The Story of a Murderer"'
 
 ---
-
 In this project, I aimed to redesign the posters of my favorite movie ”Perfume The Story of a Murderer”.
 
 I wanted the subject of the naked, killed, female body, to be the focal point of each poster rather than focus on Grenouille, the killer. However, it was important to represent him, which I did through the background colours. I chose yellow to showcase his madness, obsession, and deceit, blue to indicate his isolation referenced by his frock in the movie, and lastly beige which illustrates the sensation (of smell) and symbolizes the skin of the murdered women which the perfume was made out of. Thus, the murderer remains present, looming in the background over the bodies he killed.
@@ -18,6 +17,10 @@ Original Posters:
 Inspiration:
 
 ![](/content/images/website.png)
+
+Fonts:
+
+![](/content/images/font-1.png)
 
 Movie Stills:
 
