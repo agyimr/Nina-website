@@ -17,14 +17,13 @@ Yayoi Kusama colour scheme:![Yayoi Kusama Colors](/content/images/kusama_cmyk.pn
 
 Yayoi Kusama pattern:
 
-  
 ![Yayoi Kusama Pattern](/content/images/kusama_poster_transp.png "Yayoi Kusama Pattern")
 
-Yayoi Kusama final graphic:
+Final graphic "01 Yayoi Kusama":
 
 ![](/content/images/kusama_tate_poster_f.png)
 
-Yayoi Kusama mockup:
+Poster "01 Yayoi Kusama" mockup:
 
 ![Yayoi Kusama Poster](/content/images/kusama.png "Yayoi Kusama Poster")
 
@@ -38,10 +37,10 @@ Agnes Martin pattern:
 
 ![Agnes Martin Type](/content/images/martin-sq.png "Agnes Martin Type")
 
-Agnes Martin final graphic:
+Final graphic "02 Agnes Martin":
 
 ![](/content/images/martin_tate_poster_f.png)
 
-Agnes Martin mockup:
+Poster "02 Agnes Martin" mockup:
 
 ![Agnes Martin Poster](/content/images/martin.png "Agnes Martin Poster")
