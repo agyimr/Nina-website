@@ -18,6 +18,10 @@ Logo:
 
 ![](/content/images/miscellanes_22.png)
 
+Font:
+
+![](/content/images/trials-1.png)
+
 Colour scheme:
 
 ![](/content/images/colour.png)
