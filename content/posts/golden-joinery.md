@@ -1,7 +1,7 @@
 ---
 date: 2021-01-08T23:00:00Z
 hero_image: "/content/images/tear_2.jpg"
-title: golden joinery
+title: Golden Joinery
 
 ---
 Kintsugi is a Japanese art of mending broken pottery with a mixture of lacquer and powdered gold, silver, or platinum. It is less about the environmental consciousness of reusing broken objects, and more about embracing flaws and appreciating imperfections. The golden joinery creates something whole once more, emphasizing the breaks and cracks and presenting them in a new way: valuable, historical, enriching.

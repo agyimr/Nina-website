@@ -1,7 +1,7 @@
 ---
 date: 2021-07-28T13:46:16Z
 hero_image: "/content/images/perfume_header.jpg"
-title: 'redesigned "Perfume: The Story of a Murderer"'
+title: 'Redesigned "Perfume: The Story of a Murderer"'
 
 ---
 In this project, I aimed to redesign the posters of my favorite movie ”Perfume The Story of a Murderer”.

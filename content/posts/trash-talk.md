@@ -1,6 +1,6 @@
 ---
 date: 2021-02-07T23:40:32Z
-title: trash talk
+title: Trash Talk
 author: Ralph Waldo Emerson
 hero_image: "/content/images/papers.png"
 
