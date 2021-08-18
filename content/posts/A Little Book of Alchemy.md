@@ -1,7 +1,7 @@
 ---
 date: 2020-11-14T09:00:00Z
 hero_image: "/content/images/render_tinified-1.jpg"
-title: ''
+title: A Little Book of Alchemy
 
 ---
 A Little Book of Alchemy is a project inspired by the cover of ”Advanced Potion Making” designed by the House of Mina Lima for the Harry Potter franchise.
