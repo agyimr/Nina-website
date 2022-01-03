@@ -4,7 +4,20 @@ hero_image: "/content/images/nils_frahm_ep_and_remix_nina_tomczyk-05.png"
 title: Redisigning Tripping with Nils Frahm
 
 ---
+Original Album Cover:
+
+![](/content/images/tripping-with-nils-frahm_nils-frahm.jpg)
+
+Redesigned Album Cover
+
+Front:
 
 ![Nils Frahm Front](/content/images/nils_frahm_ep_and_remix_nina_tomczyk-05.png "Nils Frahm Front")
 
+Back:
+
 ![Nils Frahm Back](/content/images/nils_frahm_ep_and_remix_nina_tomczyk-02.png "Nils Frahm Back")
+
+Original Poster Design:
+
+![](/content/images/mv5byja2ntvkztatmjqxms00ymy0ltk2zjctyta0otnimmu4njk5xkeyxkfqcgdeqxvymti2odq1otc4-_v1_.jpg)
