@@ -1,6 +1,6 @@
 ---
 date: 2021-12-10T13:06:09Z
-hero_image: "/content/images/nils_frahm_ep_and_remix_nina_tomczyk-05.png"
+hero_image: "/content/images/nils_frahm_ep_and_remix_nina_tomczyk-01.png"
 title: Redisigned "Tripping with Nils Frahm"
 
 ---
