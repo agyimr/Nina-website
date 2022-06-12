@@ -1,14 +1,20 @@
 ---
 date: 2021-07-28T13:46:16Z
 hero_image: "/content/images/perfume_header.jpg"
-title: 'Redesigned "Perfume: The Story of a Murderer"'
+title: Perfume
 
 ---
-In this project, I aimed to redesign the posters of my favorite movie ”Perfume The Story of a Murderer”.
+Have you ever been connected to something so profoundly, you find yourself reading it in multiple languages, watching it repeatedly, or writing a whole thesis about it?
 
-I wanted the subject of the naked, killed, female body, to be the focal point of each poster rather than focus on Grenouille, the killer. However, it was important to represent him, which I did through the background colours. I chose yellow to showcase his madness, obsession, and deceit, blue to indicate his isolation referenced by his frock in the movie, and lastly beige which illustrates the sensation (of smell) and symbolizes the skin of the murdered women which the perfume was made out of. Thus, the murderer remains present, looming in the background over the bodies he killed.
+Or let's say...  remaking it's posters?
 
-I also wanted to modernize and minimalize the posters. By picking three stills from the movie and cutting the bodies out, I concentrated on three specific moments, alienating them in time and on paper, as if they were a collage.
+To say this book and movie had a grasp on my life so far, is an understatement. And as someone who did write an entire thesis about Patrick Suskind's _Perfume_, let me just say it is not only about some guy killing women. 
+
+Interim, I concentrated on naked, dead women and three specific moments, alienating them in time and on paper/ screen, rather than focus on Grenouille, the killer.
+
+Here, the subject of the naked, killed, female body, is the focal point of each poster.
+
+ However, it was important to represent him, which I did through the background colours. I chose yellow to showcase his madness, obsession, and deceit, blue to indicate his isolation referenced by his frock in the movie, and lastly beige which illustrates the sensation (of smell) and symbolizes the skin of the murdered women which the perfume was made out of. Thus, the murderer remains present, looming in the background over the bodies he killed.
 
 Original Posters:
 
@@ -49,7 +55,3 @@ Final Poster ”02 Perfume”
 Final Poster ”03 Perfume”
 
 ![Perfume](/content/images/perfume_poste_beige-1.jpg "Perfume")
-
-Poster mockup:
-
-![Perfume](/content/images/posters.png "Perfume")
